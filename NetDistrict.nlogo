@@ -722,7 +722,10 @@ intrinsic-moderation
 HORIZONTAL
 
 @#$#@#$#@
-## NetDistrict - What Is It?
+## Version Information
+This is Version 1.0 of NetDistrict.
+
+## What Is NetDistrict?
 Netdistrict is a Netlogo model that takes a small world of voter blocks, puts them in to districts, and then randomly fusses with those districts according to some basic scoring functions. Right now, it's mostly a toy to play with, but a lot of grunt work is out of the way if you want to try to do serious analysis with this sort of model. 
 
 ## Why Netlogo?
